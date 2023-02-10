@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "http://localhost:8001/api/v1/creditcard/all",
+            "request": "launch",
+            "url": "http://localhost:8001/api/v1/creditcard/all"
+        }
+    ]
+}
